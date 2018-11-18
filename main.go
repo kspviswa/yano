@@ -1,9 +1,9 @@
 package yano
 
 import (
-   "fmt"
+	"fmt"
 )
 
 func main() {
-    fmt.println("YANO - Yet Another NFV Orchestrator ")
+	fmt.Println("YANO - Yet Another NFV Orchestrator ")
 }
